@@ -1,0 +1,26 @@
+search_queries = [
+    "GBP suspension",
+    "Google My Business suspension",
+    "GMB suspension",
+    "Suspended GBP",
+    "address verification issues",
+    "invalid address Google My Business",
+    "Google Business Profile reinstatement",
+    "reinstating suspended GBP",
+    "unsuspended",
+    "reinstated",
+    "disabled",
+    "policy violations",
+    "Google My Business appeal",
+    "service area business suspension",
+    "Profile Verifications",
+    "suspension",
+    "gbp",
+    "suspended",
+    "appeal",
+    "google support",
+    "deceptive content",
+    "Suspension Delays",
+]
+
+subreddits = ["googlemybusiness", "localseo", "seo"]  
